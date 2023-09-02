@@ -1,4 +1,5 @@
 {
-  "registry": "0xF99e2173db1f341a947CE9Bd7779aF2245309f91",
+  "registry": "0x3A8547DbAf72C23037e3F2b623CaEE45E6Cbc3fc",
   "symbol": "verified"
 }
+function isVerifiedUser(address _user) external view returns (bool)
